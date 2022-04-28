@@ -1,3 +1,0 @@
-['Fushi_#6228', '!save slot', 'https://cdn.discordapp.com/avatars/355951979429625862/0c0c57e23667b7c290c3a85a51aaf650.webp?size=32']
-['Neeko Bot#8935', 'ver 2.1 LIVE <NEEKO_BOT> FUSHI_#6228\n ***RELEASE BUILD***', 'https://cdn.discordapp.com/avatars/863253163091689492/a6782127e2e9fa7dcde2cf79990e9ee5.webp?size=32']
-['Fushi_#6228', '!ver', 'https://cdn.discordapp.com/avatars/355951979429625862/0c0c57e23667b7c290c3a85a51aaf650.webp?size=32']

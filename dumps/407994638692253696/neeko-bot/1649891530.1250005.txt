@@ -1,1 +1,0 @@
-['Neeko Bot#8935', '***For more help type !neeko  help <Category>***\n __Categories:\n  -about\n -opg\n  -signup\n -levels\n -quests\n -adventures\n -champions\n -battles\n -shop\n -guilds\n -queues\n -credits\n -add bot\n -Donate!__ *** ***', 'https://cdn.discordapp.com/avatars/863253163091689492/a6782127e2e9fa7dcde2cf79990e9ee5.webp?size=32']
