@@ -1,0 +1,4 @@
+['Fushi_#6228', 'Implement file size check and automatic ms azure storage when storage gets low', 'https://cdn.discordapp.com/avatars/355951979429625862/0c0c57e23667b7c290c3a85a51aaf650.webp?size=32']
+['Fushi_#6228', 'i also want to try using cloudflare localhost tunnels to create a public webserver for phone_home error logging', 'https://cdn.discordapp.com/avatars/355951979429625862/0c0c57e23667b7c290c3a85a51aaf650.webp?size=32']
+['Fushi_#6228', 'that way i still get notified of errors while discords api servers are down', 'https://cdn.discordapp.com/avatars/355951979429625862/0c0c57e23667b7c290c3a85a51aaf650.webp?size=32']
+['Fushi_#6228', 'channel.history(limit=100).flatten():', 'https://cdn.discordapp.com/avatars/355951979429625862/0c0c57e23667b7c290c3a85a51aaf650.webp?size=32']

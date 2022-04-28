@@ -1,0 +1,4 @@
+['Fushi_#6228', '!add bot', 'https://cdn.discordapp.com/avatars/355951979429625862/0c0c57e23667b7c290c3a85a51aaf650.webp?size=32']
+['Fushi_#6228', '!neeko help add bot', 'https://cdn.discordapp.com/avatars/355951979429625862/0c0c57e23667b7c290c3a85a51aaf650.webp?size=32']
+['Neeko Bot#8935', 'https://discordbotlist.com/bots/neeko-bot', 'https://cdn.discordapp.com/avatars/863253163091689492/a6782127e2e9fa7dcde2cf79990e9ee5.webp?size=32']
+['Fushi_#6228', 'https://discord.com/oauth2/authorize?client_id=917552319770550332&scope=bot', 'https://cdn.discordapp.com/avatars/355951979429625862/0c0c57e23667b7c290c3a85a51aaf650.webp?size=32']

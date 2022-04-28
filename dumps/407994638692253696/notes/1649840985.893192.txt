@@ -1,0 +1,3 @@
+['Fushi_#6228', '!neeko vote', 'https://cdn.discordapp.com/avatars/355951979429625862/0c0c57e23667b7c290c3a85a51aaf650.webp?size=32']
+['Fushi_#6228', '!neeko help add bot', 'https://cdn.discordapp.com/avatars/355951979429625862/0c0c57e23667b7c290c3a85a51aaf650.webp?size=32']
+['Fushi_#6228', 'add a performance monitor to access over a network socket or cloudflare webserver', 'https://cdn.discordapp.com/avatars/355951979429625862/0c0c57e23667b7c290c3a85a51aaf650.webp?size=32']

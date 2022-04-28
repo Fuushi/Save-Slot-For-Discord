@@ -1,0 +1,8 @@
+['Fushi_#6228', '!reboot', 'https://cdn.discordapp.com/avatars/355951979429625862/0c0c57e23667b7c290c3a85a51aaf650.webp?size=32']
+['Fushi_#6228', '!reboot', 'https://cdn.discordapp.com/avatars/355951979429625862/0c0c57e23667b7c290c3a85a51aaf650.webp?size=32']
+['Oz#6293', '!pokemon', 'https://cdn.discordapp.com/avatars/852484373622161419/8bbf34faafded337efd520067e0a3790.webp?size=32']
+['MEE6#4876', '', 'https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.webp?size=32']
+['Oz#6293', '!mommy', 'https://cdn.discordapp.com/avatars/852484373622161419/8bbf34faafded337efd520067e0a3790.webp?size=32']
+['Fushi_#6228', '!neeko help', 'https://cdn.discordapp.com/avatars/355951979429625862/0c0c57e23667b7c290c3a85a51aaf650.webp?size=32']
+['Oz#6293', '-gyarados', 'https://cdn.discordapp.com/avatars/852484373622161419/8bbf34faafded337efd520067e0a3790.webp?size=32']
+['MEE6#4876', 'GG <@852484373622161419>, you just advanced to level 1!', 'https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.webp?size=32']
